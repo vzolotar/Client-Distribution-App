@@ -21,7 +21,7 @@ This is a simple Client Distribution App which is used to distribute the Applica
 
 <img src="https://github.com/vzolotar/Client-Distribution-App/blob/main/images/ClientDestribution1.JPG" >
 
-An example of the PowerScript code used in the "release” button on clicked() event 
+An example of the PowerScript code used in the "release” button on clicked() event. 
 
 ````markdown
 Int net
